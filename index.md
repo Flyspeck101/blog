@@ -9,6 +9,8 @@ Before reading any articles on this blog, you should know two things:
 1. It is hard to make this look like a proper blog with MD and my limited time, so be aware that most of these pages will likely look just like simple webpages. 
 2. I am a muffin. Please consider my capability before criticising me unnecessarily. 
 
+Every week, I will post a new article. These may be to do with Tetris, or they may be to do with BattleTabs. It depends on which one I feel like writing about. 
+
 ## List of articles (most recent to least recent)
 
 - [[TETRIS] Openers I use](articles/2022-05-30.html)
