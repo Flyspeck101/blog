@@ -11,4 +11,4 @@ Before reading any articles on this blog, you should know two things:
 
 ## List of articles (most recent to least recent)
 
-- [[TETRIS] Openers I use](articles/30-05-2022.html)
+- [[TETRIS] Openers I use](articles/2022-05-30.html)
