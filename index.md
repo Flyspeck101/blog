@@ -13,4 +13,5 @@ Every week, I will post a new article. These may be to do with Tetris, or they m
 
 ## List of articles (most recent to least recent)
 
+- [[TETRIS] My boring and irrelevant opinion on different openers part 1](articles/2022-06-07.html)
 - [[TETRIS] Openers I use](articles/2022-05-30.html)
